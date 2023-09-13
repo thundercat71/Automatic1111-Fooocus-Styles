@@ -9,10 +9,10 @@ Start Automatic1111 and enter a simply prompt like "a cat in a suit", click the 
 
 ![Screenshot 2023-09-13 094801](https://github.com/thundercat71/Automatic1111-Fooocus-Styles/assets/43249202/81c5cb4c-94aa-47c6-9bc2-d982b9022592)
 
-Refrences: (More will be added)
+Refrences:
 
 https://github.com/lllyasviel/Fooocus
 
 https://docs.google.com/spreadsheets/d/1AF5bd-fALxlu0lguZQiQVn1yZwxUiBJGyh2eyJJWl74/edit#gid=0
 
-
+https://www.patreon.com/posts/sebs-hilis-79649068 - https://www.youtube.com/@sebastiankamph
