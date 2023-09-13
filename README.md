@@ -8,4 +8,6 @@ Start Automatic1111 and enter a simply prompt like "a cat in a suit", click the 
 
 Refrences: (More will be added)
 https://github.com/lllyasviel/Fooocus
+https://docs.google.com/spreadsheets/d/1AF5bd-fALxlu0lguZQiQVn1yZwxUiBJGyh2eyJJWl74/edit#gid=0
+
 
