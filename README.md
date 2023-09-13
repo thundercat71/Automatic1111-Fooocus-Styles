@@ -1,5 +1,5 @@
 # Automatic1111-Fooocus-Styles
-Ovet 180 styles to reproduce the output of Fooocus in Automatic1111 Web-Ui
+Over 180 styles to reproduce the output of Fooocus in Automatic1111 Web-Ui
 
 IMPORTANT: before using back up the file styles.csv in your "stable-diffusion-webui" install folder.
 
