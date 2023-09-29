@@ -9,6 +9,8 @@ Start Automatic1111 and enter a simply prompt like "a cat in a suit", click the 
 
 Note: Some styles have a label NO and others PO, NO stands for Negative Only and PO for Positive Only. So those styles only effect their respective prompts. All the other styles effect Positive and Negative prompts.
 
+Known Issue: If you have never saved a prompt in the webui since it has been installed you may find the prompts do not show up for you. If this happens make a prompt and save it. This should fix the issue and the prompts should now show up.
+
 ![Screenshot 2023-09-13 094801](https://github.com/thundercat71/Automatic1111-Fooocus-Styles/assets/43249202/81c5cb4c-94aa-47c6-9bc2-d982b9022592)
 
 Refrences:
